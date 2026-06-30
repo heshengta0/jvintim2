@@ -1,5 +1,6 @@
 ## Hi there 👋
-[![cat](images/cat.gif)](https://github.com/yumiaura/mycat)
+
+[![cat](images/cat.gif)](https://github.com/jvintim2/mycat)
 
 <!--
 **jvintim2/jvintim2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
