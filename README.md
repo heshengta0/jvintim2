@@ -1,8 +1,8 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rindy007&label=Profile%20views&color=0e75b6&style=flat" alt="rindy007" />
+  <img src="https://komarev.com/ghpvc/?username=jvintim2&label=Profile%20views&color=0e75b6&style=flat" alt="jvintim2" />
 </p>
 
-<h1 align="center">Hi 👋, I'm rindy007</h1>
+<h1 align="center">Hi 👋, I'm jvintim2</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
 <p align="center">
@@ -40,7 +40,7 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=rindy007&theme=radical&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=jvintim2&theme=radical&hide_border=true" 
     width="400"
   />
 </p>
@@ -51,12 +51,12 @@
 
 
 <div align="center">
-<a href="https://github.com/rindy007/graph">
-  <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=rindy007&repo=graph&theme=buefy" />
+<a href="https://github.com/jvintim2/graph">
+  <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=jvintim2&repo=graph&theme=buefy" />
 </a>
 
-<a href="https://github.com/rindy007/openai-python">
-  <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=rindy007&repo=openai-python&theme=buefy" />
+<a href="https://github.com/jvintim2/openai-python">
+  <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=jvintim2&repo=openai-python&theme=buefy" />
 </a>
 
 </div>
@@ -66,7 +66,7 @@
 ### ☕ Let's Connect
 
 <p align="left">
-  <a href="https://github.com/rindy007" target="_blank">
+  <a href="https://github.com/jvintim2" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
